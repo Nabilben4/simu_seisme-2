@@ -1,0 +1,5 @@
+Pillow == 9.5.0
+plotly == 5.14.1
+sqlite3 == 3.37.2
+paho.mqtt == 1.6.1
+pandas == 2.0.1
